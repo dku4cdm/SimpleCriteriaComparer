@@ -1,0 +1,163 @@
+c:\users\comp\documents\visual studio 2015\Projects\SimpleCriteriaComparer\SimpleCriteriaComparer\bin\Debug\SimpleCriteriaComparer.exe.config
+c:\users\comp\documents\visual studio 2015\Projects\SimpleCriteriaComparer\SimpleCriteriaComparer\bin\Debug\SimpleCriteriaComparer.exe
+c:\users\comp\documents\visual studio 2015\Projects\SimpleCriteriaComparer\SimpleCriteriaComparer\bin\Debug\SimpleCriteriaComparer.pdb
+c:\users\comp\documents\visual studio 2015\Projects\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\SimpleCriteriaComparer.csprojResolveAssemblyReference.cache
+c:\users\comp\documents\visual studio 2015\Projects\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\MainWindow.g.cs
+c:\users\comp\documents\visual studio 2015\Projects\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\App.g.cs
+c:\users\comp\documents\visual studio 2015\Projects\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\SimpleCriteriaComparer_MarkupCompile.cache
+c:\users\comp\documents\visual studio 2015\Projects\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\SimpleCriteriaComparer_MarkupCompile.lref
+c:\users\comp\documents\visual studio 2015\Projects\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\MainWindow.baml
+c:\users\comp\documents\visual studio 2015\Projects\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\SimpleCriteriaComparer.g.resources
+c:\users\comp\documents\visual studio 2015\Projects\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\SimpleCriteriaComparer.Properties.Resources.resources
+c:\users\comp\documents\visual studio 2015\Projects\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\SimpleCriteriaComparer.csproj.GenerateResource.Cache
+c:\users\comp\documents\visual studio 2015\Projects\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\SimpleCriteriaComparer.exe
+c:\users\comp\documents\visual studio 2015\Projects\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\SimpleCriteriaComparer.pdb
+C:\Users\COMP\documents\visual studio 2015\Projects\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\QuestionWindow.g.cs
+C:\Users\COMP\documents\visual studio 2015\Projects\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\QuestionWindow.baml
+F:\SimpleCriteriaComparer\SimpleCriteriaComparer\bin\Debug\SimpleCriteriaComparer.exe.config
+F:\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\SimpleCriteriaComparer.exe
+F:\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\SimpleCriteriaComparer.pdb
+F:\SimpleCriteriaComparer\SimpleCriteriaComparer\bin\Debug\SimpleCriteriaComparer.exe
+F:\SimpleCriteriaComparer\SimpleCriteriaComparer\bin\Debug\SimpleCriteriaComparer.pdb
+F:\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\SimpleCriteriaComparer.csprojResolveAssemblyReference.cache
+F:\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\MainWindow.g.cs
+F:\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\QuestionWindow.g.cs
+F:\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\App.g.cs
+F:\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\SimpleCriteriaComparer_MarkupCompile.cache
+F:\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\SimpleCriteriaComparer_MarkupCompile.lref
+F:\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\MainWindow.baml
+F:\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\QuestionWindow.baml
+F:\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\SimpleCriteriaComparer.g.resources
+F:\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\SimpleCriteriaComparer.Properties.Resources.resources
+F:\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\SimpleCriteriaComparer.csproj.GenerateResource.Cache
+C:\Users\COMP\Documents\SimpleCriteriaComparer\SimpleCriteriaComparer\bin\Debug\SimpleCriteriaComparer.exe.config
+C:\Users\COMP\Documents\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\SimpleCriteriaComparer.exe
+C:\Users\COMP\Documents\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\SimpleCriteriaComparer.pdb
+C:\Users\COMP\Documents\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\SimpleCriteriaComparer.csprojResolveAssemblyReference.cache
+C:\Users\COMP\Documents\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\MainWindow.g.cs
+C:\Users\COMP\Documents\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\QuestionWindow.g.cs
+C:\Users\COMP\Documents\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\App.g.cs
+C:\Users\COMP\Documents\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\SimpleCriteriaComparer_MarkupCompile.cache
+C:\Users\COMP\Documents\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\SimpleCriteriaComparer_MarkupCompile.lref
+C:\Users\COMP\Documents\SimpleCriteriaComparer\SimpleCriteriaComparer\bin\Debug\SimpleCriteriaComparer.exe
+C:\Users\COMP\Documents\SimpleCriteriaComparer\SimpleCriteriaComparer\bin\Debug\SimpleCriteriaComparer.pdb
+C:\Users\COMP\Documents\SimpleCriteriaComparer\SimpleCriteriaComparer\bin\Debug\System.ValueTuple.dll
+C:\Users\COMP\Documents\SimpleCriteriaComparer\SimpleCriteriaComparer\bin\Debug\System.ValueTuple.xml
+C:\Users\COMP\Documents\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\MainWindow.baml
+C:\Users\COMP\Documents\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\QuestionWindow.baml
+C:\Users\COMP\Documents\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\SimpleCriteriaComparer.g.resources
+C:\Users\COMP\Documents\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\SimpleCriteriaComparer.Properties.Resources.resources
+C:\Users\COMP\Documents\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\SimpleCriteriaComparer.csproj.GenerateResource.Cache
+C:\Users\COMP\Documents\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\ResultInfo.g.cs
+C:\Users\COMP\Documents\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\ResultInfo.baml
+C:\Users\User\Documents\SimpleCriteriaComparer\SimpleCriteriaComparer\bin\Debug\SimpleCriteriaComparer.exe.config
+C:\Users\User\Documents\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\SimpleCriteriaComparer.exe
+C:\Users\User\Documents\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\SimpleCriteriaComparer.pdb
+C:\Users\User\Documents\SimpleCriteriaComparer\SimpleCriteriaComparer\bin\Debug\SimpleCriteriaComparer.exe
+C:\Users\User\Documents\SimpleCriteriaComparer\SimpleCriteriaComparer\bin\Debug\SimpleCriteriaComparer.pdb
+C:\Users\User\Documents\SimpleCriteriaComparer\SimpleCriteriaComparer\bin\Debug\System.ValueTuple.dll
+C:\Users\User\Documents\SimpleCriteriaComparer\SimpleCriteriaComparer\bin\Debug\System.ValueTuple.xml
+C:\Users\User\Documents\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\SimpleCriteriaComparer.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\MainWindow.g.cs
+C:\Users\User\Documents\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\QuestionWindow.g.cs
+C:\Users\User\Documents\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\ResultInfo.g.cs
+C:\Users\User\Documents\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\App.g.cs
+C:\Users\User\Documents\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\SimpleCriteriaComparer_MarkupCompile.cache
+C:\Users\User\Documents\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\SimpleCriteriaComparer_MarkupCompile.lref
+C:\Users\User\Documents\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\MainWindow.baml
+C:\Users\User\Documents\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\QuestionWindow.baml
+C:\Users\User\Documents\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\ResultInfo.baml
+C:\Users\User\Documents\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\SimpleCriteriaComparer.g.resources
+C:\Users\User\Documents\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\SimpleCriteriaComparer.Properties.Resources.resources
+C:\Users\User\Documents\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\SimpleCriteriaComparer.csproj.GenerateResource.Cache
+C:\Users\COMP\Documents\SimpleCriteriaComparer\SimpleCriteriaComparer\bin\Debug\PieControls.dll
+C:\Users\COMP\Documents\SimpleCriteriaComparer\SimpleCriteriaComparer\bin\Debug\WPFToolkit.Extended.dll
+C:\Users\COMP\Documents\SimpleCriteriaComparer\SimpleCriteriaComparer\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\COMP\Documents\SimpleCriteriaComparer\SimpleCriteriaComparer\bin\Debug\PieControls.pdb
+C:\Users\COMP\Documents\SimpleCriteriaComparer\SimpleCriteriaComparer\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\COMP\Documents\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\StartWindow.g.cs
+C:\Users\COMP\Documents\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\StartWindow.baml
+C:\Users\COMP\Documents\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\ResultForOneAlternative.g.cs
+C:\Users\COMP\Documents\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\ResultForOneAlternative.baml
+D:\SimpleCriteriaComparer\SimpleCriteriaComparer\bin\Debug\SimpleCriteriaComparer.exe.config
+D:\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\SimpleCriteriaComparer.exe
+D:\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\SimpleCriteriaComparer.pdb
+D:\SimpleCriteriaComparer\SimpleCriteriaComparer\bin\Debug\SimpleCriteriaComparer.exe
+D:\SimpleCriteriaComparer\SimpleCriteriaComparer\bin\Debug\SimpleCriteriaComparer.pdb
+D:\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\SimpleCriteriaComparer.csprojResolveAssemblyReference.cache
+D:\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\MainWindow.g.cs
+D:\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\QuestionWindow.g.cs
+D:\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\ResultForOneAlternative.g.cs
+D:\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\ResultInfo.g.cs
+D:\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\StartWindow.g.cs
+D:\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\App.g.cs
+D:\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\SimpleCriteriaComparer_MarkupCompile.cache
+D:\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\SimpleCriteriaComparer_MarkupCompile.lref
+D:\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\MainWindow.baml
+D:\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\QuestionWindow.baml
+D:\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\ResultForOneAlternative.baml
+D:\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\ResultInfo.baml
+D:\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\StartWindow.baml
+D:\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\SimpleCriteriaComparer.g.resources
+D:\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\SimpleCriteriaComparer.Properties.Resources.resources
+D:\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\SimpleCriteriaComparer.csproj.GenerateResource.Cache
+D:\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\About.g.cs
+D:\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\About.baml
+F:\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\About.g.cs
+F:\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\ResultForOneAlternative.g.cs
+F:\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\ResultInfo.g.cs
+F:\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\StartWindow.g.cs
+F:\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\About.baml
+F:\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\ResultForOneAlternative.baml
+F:\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\ResultInfo.baml
+F:\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\StartWindow.baml
+G:\SimpleCriteriaComparer\SimpleCriteriaComparer\bin\Debug\SimpleCriteriaComparer.exe.config
+G:\SimpleCriteriaComparer\SimpleCriteriaComparer\bin\Debug\SimpleCriteriaComparer.exe
+G:\SimpleCriteriaComparer\SimpleCriteriaComparer\bin\Debug\SimpleCriteriaComparer.pdb
+G:\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\SimpleCriteriaComparer.csprojResolveAssemblyReference.cache
+G:\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\About.g.cs
+G:\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\MainWindow.g.cs
+G:\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\QuestionWindow.g.cs
+G:\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\ResultForOneAlternative.g.cs
+G:\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\ResultInfo.g.cs
+G:\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\StartWindow.g.cs
+G:\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\App.g.cs
+G:\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\SimpleCriteriaComparer_MarkupCompile.cache
+G:\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\SimpleCriteriaComparer_MarkupCompile.lref
+G:\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\About.baml
+G:\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\MainWindow.baml
+G:\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\QuestionWindow.baml
+G:\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\ResultForOneAlternative.baml
+G:\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\ResultInfo.baml
+G:\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\StartWindow.baml
+G:\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\SimpleCriteriaComparer.g.resources
+G:\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\SimpleCriteriaComparer.Properties.Resources.resources
+G:\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\SimpleCriteriaComparer.csproj.GenerateResource.cache
+G:\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\SimpleCriteriaComparer.csproj.CoreCompileInputs.cache
+G:\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\SimpleCriteriaComparer.exe
+G:\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\SimpleCriteriaComparer.pdb
+F:\КОНФЕРЕНЦІЯ\SimpleCriteriaComparer\SimpleCriteriaComparer\bin\Debug\SimpleCriteriaComparer.exe.config
+F:\КОНФЕРЕНЦІЯ\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\SimpleCriteriaComparer.exe
+F:\КОНФЕРЕНЦІЯ\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\SimpleCriteriaComparer.pdb
+F:\КОНФЕРЕНЦІЯ\SimpleCriteriaComparer\SimpleCriteriaComparer\bin\Debug\SimpleCriteriaComparer.exe
+F:\КОНФЕРЕНЦІЯ\SimpleCriteriaComparer\SimpleCriteriaComparer\bin\Debug\SimpleCriteriaComparer.pdb
+F:\КОНФЕРЕНЦІЯ\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\SimpleCriteriaComparer.csprojResolveAssemblyReference.cache
+F:\КОНФЕРЕНЦІЯ\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\About.g.cs
+F:\КОНФЕРЕНЦІЯ\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\MainWindow.g.cs
+F:\КОНФЕРЕНЦІЯ\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\QuestionWindow.g.cs
+F:\КОНФЕРЕНЦІЯ\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\ResultForOneAlternative.g.cs
+F:\КОНФЕРЕНЦІЯ\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\ResultInfo.g.cs
+F:\КОНФЕРЕНЦІЯ\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\StartWindow.g.cs
+F:\КОНФЕРЕНЦІЯ\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\App.g.cs
+F:\КОНФЕРЕНЦІЯ\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\SimpleCriteriaComparer_MarkupCompile.cache
+F:\КОНФЕРЕНЦІЯ\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\SimpleCriteriaComparer_MarkupCompile.lref
+F:\КОНФЕРЕНЦІЯ\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\About.baml
+F:\КОНФЕРЕНЦІЯ\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\MainWindow.baml
+F:\КОНФЕРЕНЦІЯ\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\QuestionWindow.baml
+F:\КОНФЕРЕНЦІЯ\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\ResultForOneAlternative.baml
+F:\КОНФЕРЕНЦІЯ\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\ResultInfo.baml
+F:\КОНФЕРЕНЦІЯ\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\StartWindow.baml
+F:\КОНФЕРЕНЦІЯ\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\SimpleCriteriaComparer.g.resources
+F:\КОНФЕРЕНЦІЯ\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\SimpleCriteriaComparer.Properties.Resources.resources
+F:\КОНФЕРЕНЦІЯ\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\SimpleCriteriaComparer.csproj.GenerateResource.Cache
+F:\КОНФЕРЕНЦІЯ\SimpleCriteriaComparer\SimpleCriteriaComparer\obj\Debug\SimpleCriteriaComparer.csproj.CoreCompileInputs.cache
